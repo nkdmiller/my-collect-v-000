@@ -1,4 +1,4 @@
-require relative 'my_collect.rb'
+require 'my_collect.rb'
 
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 my_collect(array) do |name|
